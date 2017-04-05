@@ -1,0 +1,22 @@
+{
+  "name": "arkhipovandrei/yii2-dnevnik-authclient",
+  "description": "Dnevnik.ru extenion for using via yii2-authclient",
+  "keywords": ["yii2", "authclient", "oauth", "dnevnik"],
+  "homepage": "https://github.com/arkhipovandrei/yii2-dnevnik-authclient",
+  "require": {
+    "yiisoft/yii2-authclient": "~2.0@dev"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrei Arkhipov",
+      "email": "arkhipovandrei.p@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "arkhipovandrei\\authclient\\": ""
+    }
+  },
+  "minimum-stability": "dev"
+}
