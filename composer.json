@@ -1,5 +1,5 @@
 {
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "name": "arkhipovandrei/yii2-dnevnik-authclient",
   "description": "Dnevnik.ru extenion for using via yii2-authclient",
   "keywords": ["yii2", "authclient", "oauth", "dnevnik"],
